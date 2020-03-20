@@ -1,0 +1,17 @@
+{
+  "name": "eventbreaker",
+  "version": "1.0.0",
+  "description": "Discord Guild Event Breaker",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Fantasm4z/eventbreaker"
+  },
+  "main": "bot.mjs",
+  "author": "Fantasm4",
+  "license": "MIT",
+  "dependencies": {
+    "colour": "^0.7.1",
+    "discord.js": "^11.2.1",
+    "fs": "0.0.1-security"
+  }
+}
