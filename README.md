@@ -9,4 +9,5 @@ ES6
 Put your infos in config.mjs (Your real name of Discord, and your Token)
 
 Setup with: npm install
+
 Start with: node .
