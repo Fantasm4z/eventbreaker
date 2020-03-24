@@ -1,5 +1,7 @@
 # Event Breaker
 
+<b>DISCORD WAS DETECTING IT.</b>
+
 This is selfbot for breaking nickname event changer.
 
 Need: NodeJS 13+
